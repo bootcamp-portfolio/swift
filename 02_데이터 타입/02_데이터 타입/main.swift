@@ -64,12 +64,12 @@ print("aa\t\tbb\n\ncc")
 let wiseWords = "\"Imagination is more important than knowledge.\" - Einstein"
 print(wiseWords)
 
-var emptySting = ""
+var emptyString = ""
 var anotherEmptyString: String = String()
 //swift 객체형 언어 상속받아 사용
 var emptyString2:String
 
-if emptySting.isEmpty{
+if emptySting2.isEmpty{
     print("Nothing to see here.")
 }//if문과 동일
 
